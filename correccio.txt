@@ -1,0 +1,25 @@
+Ex 1: 5/5
+
+Ex2: 4,75/5
+
+Atenta, la funció "esta_viu" s'ha de cridar amb parèntesis  "personatge.esta_viu()"
+
+while True:
+    Mario.atacar(Louigi)
+    if Louigi.esta_viu == True:
+        pass
+    else:
+        print("Louigi ha mort")
+        guanyador = Mario
+        break
+    Louigi.atacar(Mario)
+    if Mario.esta_viu == True:
+        pass
+    else:
+        print("Mario ha mort")
+        guanyador = Louigi
+        break
+
+
+
+  
