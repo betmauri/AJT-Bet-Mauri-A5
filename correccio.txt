@@ -20,6 +20,4 @@ while True:
         guanyador = Louigi
         break
 
-
-
-  
+Nota. 9,75/10
